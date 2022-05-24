@@ -1,4 +1,4 @@
-/** eslint-disable **/
+/* eslint-disable */
 import {PulseLoader} from "react-spinners";
 import {Typography} from "@material-ui/core";
 import React, {useEffect, useState} from "react";

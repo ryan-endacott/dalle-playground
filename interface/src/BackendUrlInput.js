@@ -1,4 +1,4 @@
-/** eslint-disable **/
+/* eslint-disable */
 import React, {useEffect, useState} from "react";
 import withStyles from "@material-ui/core/styles/withStyles";
 import {Grid, TextField} from "@material-ui/core";
